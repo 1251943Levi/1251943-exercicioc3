@@ -1,0 +1,15 @@
+variavel : numero A ; numero B , SOMA
+
+L: mete numero 1:
+
+S:
+-ler valor A
+
+L: mete numero 2:
+
+S:
+-ler valor B
+
+SOMA = A+B
+
+'soma é' = SOMA
