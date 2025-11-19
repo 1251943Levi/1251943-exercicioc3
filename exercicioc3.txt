@@ -10,6 +10,9 @@ L: mete numero 2:
 S:
 -ler valor B
 
+se o A for maior que o B
+entao  = "A-B"
 
-SUBTRAIR = A-B
-= SUBTRAIR
+senao "B-A"
+
+FIM
