@@ -1,4 +1,4 @@
-variavel : numero A ; numero B , SUBTRAIR
+oivariavel : numero A ; numero B , SUBTRAIR
 
 L: mete numero 1:
 
@@ -14,5 +14,5 @@ se o A for maior que o B
 entao  = "A-B"
 
 senao "B-A"
-
+ii
 FIM
